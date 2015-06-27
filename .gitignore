@@ -1,0 +1,9 @@
+*.project
+**/target/*
+**/node_modules/*
+**/bower_components/*
+presentation-rest/derby-db/
+*.classpath
+**/.settings/*
+presentation-rest/.springBeans
+**/vendor/*

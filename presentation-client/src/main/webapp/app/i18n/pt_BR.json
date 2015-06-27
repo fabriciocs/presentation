@@ -1,0 +1,23 @@
+{
+  "dashboard": {
+    "WELCOME": "Bem-vindo à {{appName}}"
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Digite e aperte enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Bem Vindo",
+    "heading": {
+      "HEADER": "Navegação Principal"
+    },
+    "nav": {
+      "SINGLEVIEW": "Visualização única",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      }
+    }
+  }
+}
